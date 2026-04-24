@@ -1138,9 +1138,6 @@ function main(config) {
         "DOMAIN-SUFFIX,mpyit.com,DIRECT",         // 殁漂遥软件分享站
         "DOMAIN-SUFFIX,25xianbao.com,DIRECT",     // 卡圈线报
         "DOMAIN-SUFFIX,dir28.com,DIRECT",         // 羊毛活动
-        "DOMAIN-SUFFIX,aserweb.com,DIRECT",       // 行业 ERP 软件
-        "DOMAIN-SUFFIX,zlkj.com,DIRECT",          // 行业 SCRM 软件
-        "DOMAIN-SUFFIX,threadify.com,DIRECT",     // 独立站，直连以确保访问
     ];
 
     // ────────────── 激进阻断规则（默认关闭，开启前请仔细阅读注释）──────────────
